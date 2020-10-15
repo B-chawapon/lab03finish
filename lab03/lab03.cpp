@@ -20,7 +20,7 @@ int bx, by, i,j;
 int bullet = 0;
 int movex = 0;
 int score = 0;
-int a;
+int a=1;
 int xran[20], yran[20];
 bool checkdraw[999][999];
 int main()
